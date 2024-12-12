@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'Unbounded';
-    src: url('https://lubovtla.github.io/Fonts/Unbounded-Regular.woff') format('woff');
+    src: url('https://lubovtla.github.io/Fonts/Unbounded-Medium.woff') format('woff');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Unbounded';
-    src: url('https://lubovtla.github.io/Fonts/Unbounded-Bold.woff') format('woff');
+    src: url('https://lubovtla.github.io/Fonts/Unbounded-Black.woff') format('woff');
     font-weight: 700;
     font-style: normal;
 }
