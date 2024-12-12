@@ -1,9 +1,17 @@
-body {
-    font-family: 'Unbounded', sans-serif;
-    background-color: #f4f4f4;
-    text-align: center;
+@font-face {
+    font-family: 'Unbounded';
+    src: url('https://lubovtla.github.io/Fonts/Unbounded-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
 }
 
-h1 {
+@font-face {
+    font-family: 'Unbounded';
+    src: url('https://lubovtla.github.io/Fonts/Unbounded-Bold.woff') format('woff');
     font-weight: 700;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Unbounded', sans-serif;
 }
